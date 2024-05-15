@@ -2,7 +2,7 @@
 
 # Hi There! 
 
-## Welcome to Avaota SBC Hardware Open Source
+## Welcome to [Avaota SBC](https://avaota.fun) Hardware Open Source
 
 ![image](https://github.com/AvaotaSBC/.github/assets/12003087/2e939779-c2d5-450b-a396-6891ab628522)
 
