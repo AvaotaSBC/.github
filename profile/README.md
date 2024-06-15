@@ -6,7 +6,7 @@
 
 ![image](https://github.com/AvaotaSBC/.github/assets/12003087/2e939779-c2d5-450b-a396-6891ab628522)
 
-Avaota SBC is committed to promoting an open-source ecosystem of hardware and software integration, providing entry-level to high-performance open-source single-board computers (SBCs). All hardware designs are implemented using the CERN-OHL-S open-source license.
+Avaota SBC is committed to promoting an open-source ecosystem of hardware and software integration, providing entry-level to high-performance open-source single-board computers (SBCs). All hardware designs are implemented using the CERN-OHL-S or CERN-OHL-W open-source license depends on series.
 
 Additionally, we offer AvaotaOS, an OS distribution based on Ubuntu, along with corresponding interface functions, libraries, usage examples, facilitating entry-level development and agile development.
 
